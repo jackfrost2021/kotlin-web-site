@@ -1,5 +1,12 @@
 [//]: # (title: What's new in Kotlin 1.5.0)
 
+<table>
+    <tr>
+        <td><strong>Release date</strong></td>
+        <td>4 May 2021</td>
+    </tr>
+</table>
+
 Kotlin 1.5.0 introduces new language features, stable IR-based JVM compiler backend, performance improvements,
 and evolutionary changes such as stabilizing experimental features and deprecating outdated ones.
 
